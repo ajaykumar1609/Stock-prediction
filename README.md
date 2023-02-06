@@ -21,7 +21,7 @@ This project aims to predict stock prices using Recurrent Neural Networks (RNNs)
 ## Files
 
 - `stock_prediction.ipynb`: Jupyter Notebook containing the code for training and evaluating the RNN and LSTM models
-- `data/`: Folder containing the stock data used for training and evaluation
+- `data`: https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 
 ## Results
 
